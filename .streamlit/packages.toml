@@ -1,0 +1,3 @@
+# .streamlit/packages.toml
+[tool.streamlit]
+python_version = "3.12" # Atau "3.11" atau "3.10"
